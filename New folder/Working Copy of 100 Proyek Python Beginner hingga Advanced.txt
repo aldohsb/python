@@ -1,0 +1,420 @@
+100 Proyek Python: Beginner hingga Advanced
+
+Level 1: Sangat Beginner (1-10)
+1. Hello World Pro
+Deskripsi singkat: Program sapaan interaktif dengan input pengguna
+Deskripsi proyek: Aplikasi console sederhana yang meminta nama pengguna dan menampilkan sapaan personal dengan waktu saat ini. Mengajarkan konsep dasar input/output, variabel, dan string formatting. Cocok untuk pemula yang baru belajar sintaks Python.
+Teknologi: Python Built-in Functions, String Methods, Input/Output, datetime Module, f-strings
+2. Calculator Lite
+Deskripsi singkat: Kalkulator matematika dasar empat operasi utama
+Deskripsi proyek: Kalkulator sederhana yang dapat melakukan penjumlahan, pengurangan, perkalian, dan pembagian. Menggunakan input dari pengguna dan menampilkan hasil perhitungan. Mengajarkan operator matematika, conditional statements, dan error handling dasar.
+Teknologi: Python Operators, Input Validation, Exception Handling, Functions, Math Module
+3. Number Guesser
+Deskripsi singkat: Game tebak angka dengan sistem hint dan skor
+Deskripsi proyek: Game interaktif di mana komputer memilih angka acak dan pemain harus menebaknya dengan bantuan petunjuk "lebih tinggi" atau "lebih rendah". Menghitung jumlah percobaan dan memberikan skor. Mengajarkan loops, conditionals, dan random number generation.
+Teknologi: random Module, While Loops, Conditional Statements, Variables, User Input
+4. Temperature Converter
+Deskripsi singkat: Konverter suhu Celsius Fahrenheit Kelvin universal
+Deskripsi proyek: Aplikasi yang mengkonversi suhu antar tiga satuan: Celsius, Fahrenheit, dan Kelvin. Pengguna memilih satuan asal dan tujuan, memasukkan nilai, lalu mendapat hasil konversi. Mengajarkan fungsi, formula matematika, dan menu selection.
+Teknologi: Functions, Mathematical Formulas, Menu Systems, Input Validation, f-string Formatting
+5. Password Generator
+Deskripsi singkat: Generator password acak dengan tingkat keamanan kustom
+Deskripsi proyek: Membuat password acak dengan panjang dan kompleksitas yang dapat disesuaikan. Pengguna dapat memilih apakah menyertakan huruf besar, kecil, angka, dan simbol. Mengajarkan string manipulation, random selection, dan list operations.
+Teknologi: random Module, string Module, Lists, Loops, User Preferences
+6. BMI Calculator
+Deskripsi singkat: Kalkulator indeks massa tubuh dengan kategori kesehatan
+Deskripsi proyek: Menghitung BMI berdasarkan tinggi dan berat badan pengguna, kemudian menampilkan kategori kesehatan (underweight, normal, overweight, obese). Memberikan rekomendasi sederhana berdasarkan hasil. Mengajarkan mathematical operations dan conditional logic.
+Teknologi: Math Operations, Conditional Logic, Functions, Input Validation, String Formatting
+7. Simple Todo List
+Deskripsi singkat: Aplikasi daftar tugas dengan add delete view
+Deskripsi proyek: Aplikasi todo list berbasis console yang memungkinkan pengguna menambah, melihat, dan menghapus tugas. Data disimpan dalam list selama program berjalan. Mengajarkan list operations, loops, dan basic menu system.
+Teknologi: Lists, Loops, Menu Systems, String Methods, Basic Data Structures
+8. Rock Paper Scissors
+Deskripsi singkat: Game gunting batu kertas melawan komputer klasik
+Deskripsi proyek: Implementasi game gunting-batu-kertas tradisional melawan komputer. Menghitung skor pemain dan komputer, menampilkan hasil setiap ronde. Opsi untuk bermain beberapa ronde. Mengajarkan random choice, game logic, dan score tracking.
+Teknologi: random Module, Game Logic, Score Tracking, Loops, Conditionals
+9. Age Calculator
+Deskripsi singkat: Hitung usia detail tahun bulan hari dari tanggal
+Deskripsi proyek: Menghitung usia seseorang secara detail (tahun, bulan, hari) berdasarkan tanggal lahir. Juga menampilkan hari dalam tahun dan informasi zodiak. Mengajarkan date manipulation dan datetime operations.
+Teknologi: datetime Module, Date Arithmetic, Input Parsing, Mathematical Calculations, String Formatting
+10. Unit Converter
+Deskripsi singkat: Konverter satuan panjang berat volume universal lengkap
+Deskripsi projet: Aplikasi konversi berbagai satuan seperti panjang (meter, feet), berat (kg, pounds), dan volume (liter, gallon). Menu interaktif untuk memilih kategori dan satuan. Mengajarkan dictionary, functions, dan conversion formulas.
+Teknologi: Dictionaries, Functions, Mathematical Formulas, Menu Navigation, Data Organization
+
+
+Level 2: Beginner (11-25)
+11. Hangman Game
+Deskripsi singkat: Game tebak kata klasik dengan visual ASCII
+Deskripsi proyek: Implementasi game Hangman lengkap dengan visual ASCII yang berubah setiap kesalahan. Pemain menebak huruf untuk mengungkap kata tersembunyi. Word bank yang bisa dikustomisasi. Mengajarkan string manipulation, loops, dan ASCII art.
+Teknologi: Lists, String Operations, ASCII Art, Game State Management, File Reading
+12. Dice Roller Simulator
+Deskripsi singkat: Simulator pelemparan dadu berbagai sisi dan jumlah
+Deskripsi proyet: Simulator untuk melempar dadu dengan berbagai konfigurasi (D4, D6, D8, D12, D20, D100). Bisa melempar beberapa dadu sekaligus dan menampilkan total. Berguna untuk board games dan RPG.
+Teknologi: random Module, Loops, Lists, Statistical Functions, User Input
+13. Mad Libs Generator
+Deskripsi singkat: Generator cerita lucu dari template kata dinamis
+Deskripsi proyek: Aplikasi yang meminta pengguna memasukkan berbagai jenis kata (noun, verb, adjective) kemudian memasukkannya ke dalam template cerita yang sudah disiapkan, menghasilkan cerita lucu. Mengajarkan string formatting dan template systems.
+Teknologi: String Formatting, Templates, Input Collection, Lists, File Reading
+14. Countdown Timer
+Deskripsi singkat: Timer mundur dengan notifikasi dan display real-time
+Deskripsi proyek: Timer yang menghitung mundur dari waktu yang ditentukan pengguna. Menampilkan countdown secara real-time di console dan memberikan notifikasi saat selesai. Mengajarkan time operations dan terminal manipulation.
+Teknologi: time Module, While Loops, Terminal Clearing, User Input, System Commands
+15. Palindrome Checker
+Deskripsi singkat: Cek kata atau kalimat palindrom case-insensitive
+Deskripsi proyek: Mengecek apakah kata atau kalimat yang dimasukkan adalah palindrom (dibaca sama dari depan dan belakang). Mengabaikan spasi dan case. Menampilkan hasil dengan penjelasan. Mengajarkan string manipulation dan algorithms.
+Teknologi: String Methods, Slicing, Regular Expressions, Functions, Input Processing
+16. Quiz Application
+Deskripsi singkat: Aplikasi kuis multiple choice dengan sistem scoring
+Deskripsi proyek: Program kuis interaktif dengan pertanyaan multiple choice. Melacak jawaban benar/salah, menampilkan skor akhir dan persentase. Pertanyaan bisa disimpan dalam list atau file. Mengajarkan data structures dan flow control.
+Teknologi: Lists/Dictionaries, File Handling, Score Calculation, Loops, Conditional Logic
+17. Currency Converter
+Deskripsi singkat: Konverter mata uang real-time berbagai negara
+Deskripsi proyek: Mengkonversi nilai antar berbagai mata uang menggunakan kurs yang tersimpan atau dari API. Menampilkan hasil konversi dengan format yang rapi. Mendukung multiple currencies. Mengajarkan API calls atau dictionary operations.
+Teknologi: Dictionaries, API Requests (optional), JSON, Mathematical Operations, Error Handling
+18. Fibonacci Generator
+Deskripsi singkat: Generator deret Fibonacci dengan berbagai metode output
+Deskripsi proyek: Menghasilkan deret Fibonacci sampai n angka atau sampai nilai tertentu. Pengguna dapat memilih jumlah angka yang diinginkan. Menampilkan deret dan visualisasi sederhana. Mengajarkan recursion dan iteration.
+Teknologi: Recursion, Iteration, Lists, Functions, Mathematical Sequences
+19. Email Slicer
+Deskripsi singkat: Ekstrak username dan domain dari alamat email
+Deskripsi proyek: Memisahkan dan mengekstrak komponen dari alamat email (username, domain, extension). Validasi format email dasar. Batch processing untuk multiple emails. Mengajarkan string parsing dan validation.
+Teknologi: String Methods, Split Operations, Regular Expressions, Validation, List Processing
+20. Leap Year Checker
+Deskripsi singkat: Cek tahun kabisat dengan algoritma dan penjelasan
+Deskripsi proyek: Menentukan apakah suatu tahun adalah tahun kabisat berdasarkan aturan kalender. Menampilkan penjelasan mengapa tahun tersebut kabisat atau bukan. Bisa cek range tahun. Mengajarkan logical operations dan algorithms.
+Teknologi: Conditional Logic, Mathematical Operations, Functions, Loops, Input Validation
+21. Binary Converter
+Deskripsi singkat: Konversi bilangan biner desimal hexadecimal octal bolak-balik
+Deskripsi proyek: Mengkonversi bilangan antar sistem: binary, decimal, hexadecimal, dan octal. Pengguna memilih sistem asal dan tujuan. Menampilkan proses konversi. Mengajarkan number systems dan conversion algorithms.
+Teknologi: Built-in Conversion Functions, Mathematical Operations, String Formatting, Menu Systems, Base Conversion
+22. Story Generator
+Deskripsi singkat: Generator cerita acak dari template dan word bank
+Deskripsi proyek: Membuat cerita random dengan memilih kata-kata secara acak dari berbagai kategori (karakter, tempat, aksi, objek). Multiple templates tersedia. Setiap generasi menghasilkan cerita unik. Mengajarkan random selection dan template systems.
+Teknologi: random Module, Lists, String Formatting, Templates, File Operations
+23. Alarm Clock
+Deskripsi singkat: Alarm dengan waktu custom dan notifikasi suara
+Deskripsi proyek: Set alarm untuk waktu tertentu. Program akan berjalan di background dan membunyikan alarm saat waktunya tiba. Bisa set multiple alarms. Mengajarkan datetime operations dan system notifications.
+Teknologi: datetime Module, time Module, Threading, System Notifications, Sound Playback
+24. Acronym Generator
+Deskripsi singkat: Buat akronim otomatis dari frasa atau kalimat
+Deskripsi proyek: Mengambil huruf pertama dari setiap kata dalam frasa untuk membuat akronim. Mendukung berbagai format output (uppercase, lowercase, with dots). Batch processing untuk multiple phrases. Mengajarkan string manipulation.
+Teknologi: String Methods, Split Operations, List Comprehension, Loops, String Formatting
+25. Prime Number Checker
+Deskripsi singkat: Cek bilangan prima dan generator range bilangan prima
+Deskripsi proyek: Mengecek apakah suatu angka adalah bilangan prima. Juga bisa menghasilkan semua bilangan prima dalam range tertentu. Menampilkan faktorisasi untuk non-prime numbers. Mengajarkan algorithms dan optimization.
+Teknologi: Mathematical Algorithms, Loops, Conditional Logic, Functions, List Generation
+
+
+Level 3: Lower Intermediate (26-40)
+26. Expense Tracker
+Deskripsi singkat: Pencatat pengeluaran harian dengan kategori dan laporan
+Deskripsi proyek: Aplikasi untuk mencatat pengeluaran dengan kategori, tanggal, dan jumlah. Menyimpan data ke file. Menampilkan summary, total per kategori, dan laporan bulanan. Mengajarkan file handling dan data organization.
+Teknologi: File I/O (CSV/JSON), datetime Module, Data Structures, List/Dict Operations, Data Analysis
+27. Password Validator
+Deskripsi singkat: Validasi kekuatan password dengan berbagai kriteria keamanan
+Deskripsi proyek: Mengecek kekuatan password berdasarkan berbagai kriteria: panjang minimum, huruf besar/kecil, angka, karakter khusus, common passwords. Memberikan skor dan saran perbaikan. Mengajarkan regex dan validation logic.
+Teknologi: Regular Expressions, String Analysis, Validation Logic, File Reading, Security Concepts
+28. Contact Book
+Deskripsi singkat: Buku kontak digital dengan CRUD dan pencarian
+Deskripsi proyek: Aplikasi untuk menyimpan dan mengelola kontak (nama, nomor, email, alamat). Fitur: tambah, edit, hapus, cari, dan tampilkan semua kontak. Data persisten menggunakan file. Mengajarkan CRUD operations.
+Teknologi: File Persistence (JSON/CSV), CRUD Operations, Search Algorithms, Data Validation, Menu Systems
+29. Markdown to HTML
+Deskripsi singkat: Konverter format Markdown ke HTML sederhana fungsional
+Deskripsi proyek: Mengkonversi file Markdown menjadi HTML. Mendukung heading, bold, italic, links, lists, dan code blocks. Output bisa disave ke file HTML. Mengajarkan string parsing dan file operations.
+Teknologi: Regular Expressions, String Parsing, File I/O, HTML Generation, Pattern Matching
+30. Text Analyzer
+Deskripsi singkat: Analisis teks lengkap statistik kata kalimat karakter
+Deskripsi proyek: Menganalisis teks untuk menghitung jumlah kata, kalimat, karakter, paragraf. Mencari kata yang paling sering muncul, average word length, reading time estimate. Mengajarkan text processing dan statistical analysis.
+Teknologi: String Methods, Regular Expressions, Collections Module, Statistical Analysis, File Reading
+31. JSON to CSV Converter
+Deskripsi singkat: Konverter data JSON ke CSV dan sebaliknya
+Deskripsi proyek: Mengkonversi file JSON ke format CSV dan sebaliknya. Handling nested structures, array flattening, dan data normalization. Mendukung batch conversion. Mengajarkan data format manipulation.
+Teknologi: json Module, csv Module, File I/O, Data Transformation, Error Handling
+32. Web Scraper Basic
+Deskripsi singkat: Scraper sederhana ambil data dari website tertentu
+Deskripsi proyek: Mengambil data dari halaman web statis seperti headlines, prices, atau informasi tertentu. Menyimpan hasil ke file. Mengajarkan HTML parsing dan HTTP requests.
+Teknologia: requests Library, BeautifulSoup4, HTML Parsing, File Writing, Error Handling
+33. Weather App
+Deskripsi singkat: Aplikasi cuaca dengan data API berbagai lokasi
+Deskripsi proyek: Menampilkan informasi cuaca terkini dan forecast untuk lokasi yang diinginkan menggunakan weather API. Menampilkan temperature, kondisi, humidity, wind speed. Mengajarkan API integration.
+Teknologi: API Requests, requests Library, JSON Parsing, Error Handling, Data Presentation
+34. QR Code Generator
+Deskripsi singkat: Generator QR code dari teks URL atau data
+Deskripsi proyek: Membuat QR code dari text, URL, atau data lainnya. Bisa customize size dan error correction level. Menyimpan sebagai image file. Mengajarkan image generation dan library usage.
+Teknologi: qrcode Library, PIL/Pillow, File Saving, User Input, Image Manipulation
+35. File Organizer
+Deskripsi singkat: Organisir file otomatis berdasarkan tipe ke folder
+Deskripsi proyek: Mengorganisir file dalam folder berdasarkan extension (documents, images, videos, etc). Bisa set custom rules. Undo functionality. Mengajarkan file system operations.
+Teknologi: os Module, shutil Module, File Path Operations, Pattern Matching, Error Handling
+36. Pomodoro Timer
+Deskripsi singkat: Timer produktivitas Pomodoro dengan break dan notifikasi
+Deskripsi proyek: Implementasi teknik Pomodoro dengan work sessions (25 menit) dan breaks (5 menit). Menghitung jumlah sessions, long breaks, dan statistik harian. Notifikasi suara. Mengajarkan time management.
+Teknologi: time Module, datetime Module, Threading, System Notifications, Data Tracking
+37. Vocabulary Builder
+Deskripsi singkat: Aplikasi belajar vocab dengan flashcard dan quiz
+Deskripsi proyek: Menyimpan vocabulary dengan definisi dan contoh. Fitur flashcard mode, quiz mode, dan spaced repetition. Track progress dan words learned. Mengajarkan data persistence dan learning algorithms.
+Teknologi: File Persistence, Random Selection, Data Structures, Progress Tracking, User Interface
+38. Morse Code Translator
+Deskripsi singkat: Translator text ke Morse code bolak-balik lengkap
+Deskripsi proyek: Mengkonversi text ke Morse code dan sebaliknya. Mendukung letters, numbers, dan punctuation. Bisa play audio untuk Morse code. Mengajarkan dictionary mapping dan audio generation.
+Teknologi: Dictionaries, String Conversion, Audio Generation (optional), Reverse Mapping, Pattern Matching
+39. Typing Speed Test
+Deskripsi singkat: Test kecepatan mengetik WPM dengan akurasi tracking
+Deskripsi proyek: Menampilkan teks random, user mengetik ulang, program menghitung WPM (words per minute), accuracy percentage, dan errors. Leaderboard untuk high scores. Mengajarkan timing dan string comparison.
+Teknologi: time Module, String Comparison, Statistical Calculation, File Persistence, User Input Timing
+40. GitHub Profile Viewer
+Deskripsi singkat: Tampilkan info GitHub profile dan repository via API
+Deskripsi proyek: Mengambil dan menampilkan informasi GitHub profile: repos, followers, following, contributions. Juga bisa show repository details. Menggunakan GitHub API. Mengajarkan API integration dan data presentation.
+Teknologi: GitHub API, requests Library, JSON Parsing, Data Formatting, Error Handling
+
+Level 4: Intermediate (41-60)
+41. URL Shortener
+Deskripsi singkat: Service pemendek URL dengan database dan redirect
+Deskripsi proyek: Membuat short URL dari long URL, menyimpan mapping di database. Fitur custom aliases, click tracking, dan expiration dates. Web interface sederhana menggunakan Flask. Mengajarkan web development dan databases.
+Teknologi: Flask, SQLite/Database, URL Hashing, HTTP Redirects, HTML Templates
+42. PDF Merger
+Deskripsi singkat: Gabung multiple PDF jadi satu file lengkap
+Deskripsi proyek: Menggabungkan beberapa file PDF menjadi satu file. Bisa mengatur urutan, extract pages tertentu, split PDF. GUI sederhana untuk drag-and-drop. Mengajarkan PDF manipulation.
+Teknologi: PyPDF2/pikepdf, Tkinter GUI, File Handling, List Operations, Error Handling
+43. Image Watermarking
+Deskripsi singkat: Tambah watermark teks atau logo ke gambar batch
+Deskripsi proyek: Menambahkan watermark (text atau image) ke gambar. Customize position, opacity, size. Batch processing untuk banyak gambar sekaligus. Preview sebelum apply. Mengajarkan image processing.
+Teknologi: Pillow/PIL, Image Manipulation, File Processing, GUI (Tkinter), Batch Operations
+44. Stock Price Tracker
+Deskripsi singkat: Monitor harga saham real-time dengan alert threshold
+Deskripsi proyek: Tracking harga saham real-time dari API. Set price alerts, view historical data, basic charts. Notification saat price threshold tercapai. Mengajarkan API integration dan data visualization.
+Teknologi: Stock API, Matplotlib/Plotly, Real-time Updates, Threading, Notifications
+45. Blog CMS
+Deskripsi singkat: Content management system blog dengan CRUD posts
+Deskripsi proyek: Web application untuk membuat dan manage blog posts. Fitur: create, edit, delete posts, categories, search, pagination. User authentication basic. Database untuk storage. Mengajarkan full-stack development.
+Teknologi: Flask/Django, SQLAlchemy, HTML/CSS Templates, Authentication, Database Operations
+46. Sentiment Analysis Tool
+Deskripsi singkat: Analisis sentimen teks positif negatif netral NLP
+Deskripsi proyek: Menganalisis sentimen dari teks (reviews, tweets, comments). Menggunakan NLP library untuk classify sebagai positive, negative, atau neutral. Batch analysis dan export results. Mengajarkan NLP basics.
+Teknologi: NLTK/TextBlob, Natural Language Processing, Data Analysis, File Processing, Visualization
+47. Music Player
+Deskripsi singkat: Audio player GUI dengan playlist dan controls lengkap
+Deskripsi proyek: Music player dengan GUI yang dapat play, pause, stop, next, previous. Support berbagai format audio. Create dan manage playlists. Volume control dan progress bar. Mengajarkan GUI dan audio handling.
+Teknologi: Pygame/Pygame.mixer, Tkinter GUI, File Browsing, Event Handling, Audio Processing
+48. Chatbot Basic
+Deskripsi singkat: Chatbot rule-based dengan pattern matching responses
+Deskripsi proyek: Chatbot sederhana yang merespon berdasarkan keywords dan patterns. Support small talk, FAQs, dan basic commands. Learning dari interactions. Mengajarkan NLP dan pattern matching.
+Teknologi: NLTK, Regular Expressions, Pattern Matching, File Persistence, String Processing
+49. Recipe Manager
+Deskripsi singkat: Database resep masakan dengan ingredients dan instructions
+Deskripsi proyek: Aplikasi untuk menyimpan dan organize recipes. Fitur: add recipes dengan ingredients dan steps, search by ingredient, categories, shopping list generator. Nutrition calculator optional. Mengajarkan database management.
+Teknologi: SQLite Database, CRUD Operations, Search Functionality, Data Relationships, GUI/Web Interface
+50. Port Scanner
+Deskripsi singkat: Network scanner cek port terbuka pada IP target
+Deskripsi proyek: Scan port pada IP address atau hostname untuk menemukan open ports. Multi-threaded untuk speed. Display service information. Mengajarkan networking dan concurrent programming.
+Teknologi: socket Module, Threading, Network Programming, Port Scanning, Service Detection
+51. Sudoku Solver
+Deskripsi singkat: Solver otomatis puzzle Sudoku dengan backtracking algorithm
+Deskripsi proyek: Memecahkan puzzle Sudoku menggunakan backtracking algorithm. Input bisa dari file atau manual entry. Visualisasi proses solving. Validate solution. Mengajarkan algorithms dan recursion.
+Teknologi: Backtracking Algorithm, Recursion, 2D Arrays, Validation Logic, Visualization
+52. Screenshot Tool
+Deskripsi singkat: Aplikasi ambil screenshot dengan annotasi dan editing
+Deskripsi proyek: Tool untuk capture screenshot (full screen, window, atau area). Fitur annotation (text, arrows, shapes), cropping, dan basic editing. Auto-save dengan naming. Mengajarkan screen capture dan image editing.
+Teknologi: PIL/Pillow, pyautogui, Image Processing, Tkinter GUI, File Saving
+53. Video Downloader
+Deskripsi singkat: Download video dari YouTube dan platform lain
+Deskripsi proyek: Download videos dari YouTube dan platform lainnya. Pilih quality/format. Batch download dari playlist. Progress indicator. Convert to audio. Mengajarkan external library usage dan multimedia.
+Teknologi: pytube/yt-dlp, Threading, Progress Bars, File Management, FFmpeg Integration
+54. Regex Tester
+Deskripsi singkat: GUI test dan debug regular expressions real-time
+Deskripsi proyek: Tool untuk test regex patterns dengan live matching preview. Highlight matches, show groups, explain pattern. Library of common patterns. Export matches. Mengajarkan regex dan GUI.
+Teknologi: Regular Expressions, Tkinter GUI, Text Highlighting, Pattern Library, Real-time Processing
+55. API Rate Limiter
+Deskripsi singkat: Middleware rate limiting untuk API dengan berbagai strategi
+Deskripsi proyek: Implementasi rate limiting untuk API endpoints. Support berbagai strategies: fixed window, sliding window, token bucket. Track usage per user/IP. Mengajarkan API design dan algorithms.
+Teknologi: Flask/FastAPI, Redis (optional), Decorators, Time-based Algorithms, Middleware
+56. Duplicate File Finder
+Deskripsi singkat: Cari dan hapus file duplikat berdasarkan content hash
+Deskripsi proyek: Scan directory untuk menemukan duplicate files berdasarkan hash comparison. Preview duplicates, pilih mana yang dihapus. Calculate space saved. Mengajarkan file operations dan hashing.
+Teknologi: hashlib, os Module, File Hashing, GUI, Directory Traversal
+57. Encryption Tool
+Deskripsi singkat: Enkripsi dekripsi file dan teks berbagai algoritma
+Deskripsi proyek: Tool untuk encrypt dan decrypt files atau text menggunakan berbagai algorithms (AES, RSA). Password-based encryption. Secure key management. Mengajarkan cryptography.
+Teknologi: cryptography Library, AES/RSA Encryption, File I/O, Key Management, Security Practices
+58. Log Analyzer
+Deskripsi singkat: Analisis log file dengan pattern detection reporting
+Deskripsi proyek: Parse dan analyze log files untuk menemukan errors, warnings, patterns. Generate reports dengan statistics dan insights. Real-time monitoring option. Mengajarkan log processing.
+Teknologi: Regular Expressions, File Parsing, Data Analysis, Reporting, Real-time Monitoring
+59. Image Compressor
+Deskripsi singkat: Kompres gambar batch dengan quality control output
+Deskripsi proyek: Compress images dengan adjustable quality untuk reduce file size. Batch processing untuk multiple images. Preview before/after dengan size comparison. Multiple format support. Mengajarkan image optimization.
+Teknologi: Pillow/PIL, Image Optimization, Batch Processing, File Size Calculation, Quality Control
+60. Kanban Board
+Deskripsi singkat: Project management board dengan drag drop tasks
+Deskripsi proyek: Web-based Kanban board untuk task management. Columns: To Do, In Progress, Done. Drag-and-drop cards, add/edit tasks, assign users, due dates. Mengajarkan web development dan interactivity.
+Teknologi: Flask/Django, JavaScript, HTML/CSS, SQLite, Drag-and-Drop API
+
+
+Level 5: Upper Intermediate (61-75)
+61. Face Detection App
+Deskripsi singkat: Deteksi wajah dalam gambar video real-time
+Deskripsi proyek: Aplikasi yang detect faces dalam images atau real-time video dari webcam. Draw bounding boxes, count faces, save detected faces. Optional: age/gender detection. Mengajarkan computer vision.
+Teknologi: OpenCV, Haar Cascades/Deep Learning Models, Image Processing, Webcam Integration, NumPy
+62. Multi-threaded Downloader
+Deskripsi singkat: Download manager multi-thread dengan resume capability
+Deskripsi proyek: Download manager yang menggunakan multiple threads untuk faster downloads. Resume broken downloads, queue management, speed limiter. Progress tracking untuk each file. Mengajarkan concurrency.
+Teknologi: Threading, Queue, requests Library, Progress Bars, File I/O
+63. Code Snippet Manager
+Deskripsi singkat: Organize code snippets dengan tags search syntax highlighting
+Deskripsi proyek: Aplikasi untuk save dan organize code snippets dengan language, tags, description. Search functionality, syntax highlighting. Export/import collections. Share via URL. Mengajarkan database dan syntax highlighting.
+Teknologi: SQLite, Syntax Highlighting (Pygments), Search Algorithms, Tags System, Web Interface
+64. Email Automation
+Deskripsi singkat: Kirim email otomatis bulk dengan template personalisasi
+Deskripsi proyek: Automate email sending dengan templates dan personalization. Support attachments, HTML emails, scheduling. Track open rates. Import recipients dari CSV. Mengajarkan email protocols.
+Teknologi: smtplib, email Module, HTML Templates, CSV Processing, Scheduling
+65. Machine Learning Predictor
+Deskripsi singkat: Model ML sederhana prediksi data dengan training
+Deskripsi proyek: Aplikasi machine learning untuk classification atau regression. Train model dengan dataset, evaluate accuracy, make predictions. Visualize results. Save/load trained models. Mengajarkan ML basics.
+Teknologi: scikit-learn, pandas, Matplotlib, NumPy, Model Persistence
+66. Voice Assistant
+Deskripsi singkat: Asisten suara dengan speech recognition dan TTS
+Deskripsi proyek: Voice assistant yang dapat recognize speech commands dan respond. Features: weather, calculator, web search, reminders. Text-to-speech responses. Customizable wake word. Mengajarkan speech processing.
+Teknologi: SpeechRecognition, pyttsx3, APIs Integration, Command Processing, Audio I/O
+67. Data Visualization Dashboard
+Deskripsi singkat: Interactive dashboard visualisasi data berbagai chart types
+Deskripsi proyek: Web dashboard untuk visualize data dengan berbagai chart types. Upload CSV/JSON, choose chart type, customize. Interactive filters. Export visualizations. Mengajarkan data visualization dan web development.
+Teknologi: Plotly/Dash, pandas, Flask, HTML/CSS, JavaScript
+68. RESTful API Server
+Deskripsi singkat: API server CRUD dengan authentication dan documentation
+Deskripsi proyek: Build complete RESTful API dengan endpoints untuk CRUD operations. Authentication dengan JWT, rate limiting, input validation. Auto-generated documentation. Mengajarkan API development best practices.
+Teknologi: Flask/FastAPI, JWT Authentication, SQLAlchemy, Swagger/OpenAPI, Middleware
+69. Socket Chat Application
+Deskripsi singkat: Real-time chat multi-user dengan rooms dan private messages
+Deskripsi proyek: Chat application menggunakan websockets. Support multiple rooms, private messages, user list, typing indicators. Message history. Emoji support. Mengajarkan real-Continue3:34 AMtime communication.
+Teknologi: Socket.io/WebSockets, Flask-SocketIO, HTML/CSS/JavaScript, Threading, Database
+70. Object Detection System
+Deskripsi singkat: Deteksi dan klasifikasi objek dalam gambar video
+Deskripsi proyek: System untuk detect dan classify objects dalam images atau video streams. Uses pre-trained models (YOLO, SSD). Bounding boxes dengan labels dan confidence scores. Mengajarkan deep learning.
+Teknologi: TensorFlow/PyTorch, OpenCV, Pre-trained Models, NumPy, Image Processing
+71. Blockchain Implementation
+Deskripsi singkat: Implementasi blockchain sederhana dengan mining dan verification
+Deskripsi proyek: Build basic blockchain dari scratch dengan proof-of-work. Create blocks, mining, chain validation, transactions. API untuk interact dengan blockchain. Mengajarkan blockchain concepts.
+Teknologi: hashlib, Flask API, JSON, Proof-of-Work Algorithm, Data Structures
+72. Password Manager
+Deskripsi singkat: Secure password vault dengan enkripsi master password
+Deskripsi proyek: Aplikasi untuk securely store passwords. Master password dengan strong encryption. Auto-generate secure passwords, categories, search. Clipboard integration. Browser extension optional. Mengajarkan security.
+Teknologi: cryptography Library, SQLite, Master Password Hashing, Clipboard, GUI/Web
+73. Recommendation Engine
+Deskripsi singkat: Sistem rekomendasi collaborative filtering content-based hybrid
+Deskripsi proyek: Build recommendation system untuk movies, products, atau content. Implement collaborative filtering dan content-based algorithms. Train dengan user ratings. Evaluate dengan metrics. Mengajarkan recommendation algorithms.
+Teknologi: pandas, scikit-learn, NumPy, Similarity Metrics, Matrix Factorization
+74. DevOps Monitor
+Deskripsi singkat: Monitor server metrics dengan alerting dan dashboard
+Deskripsi proyek: System monitoring tool untuk track CPU, memory, disk, network. Real-time dashboard, historical graphs, alerts saat threshold exceeded. Multiple servers support. Mengajarkan system programming.
+Teknologi: psutil, Flask/Django, Chart.js, SQLite/InfluxDB, Email Alerts
+75. Compiler/Interpreter
+Deskripsi singkat: Simple interpreter untuk custom programming language sederhana
+Deskripsi proyek: Build interpreter untuk simple programming language. Lexer, parser, evaluator. Support variables, functions, conditionals, loops. REPL interface. Mengajarkan compiler theory.
+Teknologi: Lexical Analysis, Parsing, AST (Abstract Syntax Tree), Interpreter Pattern, REPL
+
+
+Level 6: Advanced (76-90)
+76. Neural Network Framework
+Deskripsi singkat: Framework neural network dari scratch backpropagation training
+Deskripsi proyek: Implement neural network framework dari scratch dengan forward/backward propagation. Support berbagai layers (dense, conv), activation functions, optimizers. Train pada datasets. Mengajarkan deep learning internals.
+Teknologi: NumPy, Matrix Operations, Backpropagation, Gradient Descent, Computational Graphs
+77. Video Streaming Platform
+Deskripsi singkat: Platform streaming video dengan upload encoding playback
+Deskripsi proyek: Build video streaming platform seperti YouTube (simplified). Upload videos, transcode berbagai qualities, adaptive streaming. Comments, likes, subscriptions. Mengajarkan video processing dan streaming.
+Teknologi: Flask/Django, FFmpeg, HLS/DASH Streaming, Celery, PostgreSQL/MongoDB
+78. Distributed Task Queue
+Deskripsi singkat: Task queue system distributed dengan workers dan monitoring
+Deskripsi proyek: Build distributed task queue system. Job scheduling, priority queues, retry logic, worker management. Monitoring dashboard untuk job status. Mengajarkan distributed systems.
+Teknologi: Celery/RQ, Redis/RabbitMQ, Multi-processing, Monitoring, Database
+79. Search Engine
+Deskripsi singkat: Search engine dengan web crawler indexing dan ranking
+Deskripsi proyek: Build mini search engine. Web crawler untuk collect pages, indexer dengan inverted index, ranking algorithm (TF-IDF, PageRank). Query processing dan result ranking. Mengajarkan information retrieval.
+Teknologi: Web Scraping, Inverted Index, TF-IDF, Graph Algorithms, Database Indexing
+80. Automated Trading Bot
+Deskripsi singkat: Trading bot dengan strategy backtesting dan paper trading
+Deskripsi proyek: Cryptocurrency atau stock trading bot. Implement trading strategies, backtesting dengan historical data. Paper trading mode. Risk management, stop-loss. Mengajarkan algorithmic trading.
+Teknologi: Trading APIs, pandas, Technical Analysis Libraries, Backtesting, Real-time Data
+81. Container Orchestrator
+Deskripsi singkat: Mini orchestrator manage containers seperti Kubernetes sederhana
+Deskripsi proyek: Build simplified container orchestration system. Deploy, scale, load balance containers. Service discovery, health checks. Mengajarkan orchestration concepts dan distributed systems.
+Teknologi: Docker API, Networking, Load Balancing, Service Discovery, Distributed Systems
+82. OCR Document Scanner
+Deskripsi singkat: Optical character recognition ekstrak teks dari gambar dokumen
+Deskripsi proyek: Aplikasi untuk extract text dari images atau scanned documents. Image preprocessing, OCR dengan Tesseract, post-processing. Support multiple languages. Export ke berbagai formats. Mengajarkan image processing dan OCR.
+Teknologi: Tesseract OCR, OpenCV, PIL, Image Preprocessing, Text Processing
+83. Real-time Collaborative Editor
+Deskripsi singkat: Editor teks collaborative real-time seperti Google Docs
+Deskripsi proyek: Build collaborative text editor dengan real-time synchronization. Multiple users dapat edit simultaneously. Operational transformation atau CRDT. Cursor positions, presence indicators. Mengajarkan real-time collaboration.
+Teknologi: WebSockets, Operational Transformation/CRDT, React/Vue (frontend), Flask-SocketIO, Database
+84. GraphQL API Server
+Deskripsi singkat: GraphQL server dengan schema resolvers dan subscriptions
+Deskripsi proyek: Build GraphQL API server dengan full features. Schema definition, resolvers, queries, mutations, subscriptions. DataLoader untuk optimization. Authentication dan authorization. Mengajarkan GraphQL.
+Teknologi: Graphene, Flask/Django, WebSockets, Database, DataLoader Pattern
+85. Microservices Architecture
+Deskripsi singkat: Aplikasi microservices dengan service discovery API gateway
+Deskripsi proyek: Build aplikasi dengan microservices architecture. Multiple services berkomunikasi via REST/gRPC. Service discovery, API gateway, circuit breakers. Containerized dengan Docker. Mengajarkan microservices patterns.
+Teknologi: Flask/FastAPI, Docker, Service Mesh, Message Queues, gRPC
+86. Facial Recognition System
+Deskripsi singkat: Face recognition identify dan verify individuals training custom
+Deskripsi proyek: System untuk recognize dan verify faces. Train dengan face datasets, create embeddings. Real-time recognition dari webcam. Attendance system use case. Mengajarkan deep learning dan computer vision.
+Teknologi: face_recognition/DeepFace, OpenCV, Deep Learning Models, NumPy, Database
+87. Game Engine 2D
+Deskripsi singkat: 2D game engine dengan physics rendering input handling
+Deskripsi proyek: Build 2D game engine dari scratch. Physics system, sprite rendering, collision detection, input handling, audio. Scene management. Example game implementation. Mengajarkan game development.
+Teknologi: Pygame/SDL, Physics Engines, Rendering Pipeline, Event Systems, Audio Processing
+88. Natural Language Generator
+Deskripsi singkat: NLG system generate human-like text dari templates data
+Deskripsi proyek: Natural language generation system. Generate readable text dari structured data atau templates. Support berbagai contexts (reports, descriptions, summaries). Train custom models optional. Mengajarkan NLG.
+Teknologi: Transformers, GPT Models, Template Systems, NLP Libraries, Fine-tuning
+89. Code Review Automation
+Deskripsi singkat: Automated code review dengan static analysis suggestions
+Deskripsi proyek: Tool untuk automated code review. Static analysis, style checking, bug detection, security vulnerabilities. Generate review comments. CI/CD integration. Mengajarkan static analysis.
+Teknologi: AST Parsing, Static Analysis Tools, Pattern Matching, Git Integration, CI/CD
+90. Quantum Computing Simulator
+Deskripsi singkat: Simulator quantum computing dengan gates circuits dan algorithms
+Deskripsi proyek: Simulate quantum circuits dan algorithms. Implement quantum gates, entanglement, measurement. Visualize quantum states. Run famous algorithms (Grover, Shor). Mengajarkan quantum computing basics.
+Teknologi: NumPy, Complex Numbers, Linear Algebra, Quantum Gates, Visualization
+
+
+Level 7: Expert (91-100)
+91. Operating System Kernel
+Deskripsi singkat: Mini OS kernel dengan scheduler memory management filesystem
+Deskripsi proyek: Build simplified operating system kernel. Process scheduling, memory management, basic filesystem. System calls. Boot dari scratch. Runs di emulator. Mengajarkan OS fundamentals.
+Teknologi: Low-level Python/C, Memory Management, Scheduling Algorithms, File Systems, Bootloader
+92. Distributed Database
+Deskripsi singkat: Database system distributed dengan replication sharding consensus
+Deskripsi proyek: Implement distributed database system. Data replication, sharding, consistency protocols (Raft/Paxos). Query routing, failure handling. Mengajarkan distributed systems dan databases.
+Teknologi: Consensus Algorithms, Network Programming, Data Structures, Replication, CAP Theorem
+93. AI Code Generator
+Deskripsi singkat: AI generate code dari natural language descriptions
+Deskripsi proyek: AI system yang generate code dari natural language descriptions. Train atau use pretrained models. Support multiple languages. Code validation dan testing. Mengajarkan code generation.
+Teknologi: Transformers, GPT/Codex Models, NLP, Code Parsing, Model Fine-tuning
+94. Autonomous Agent System
+Deskripsi singkat: AI agent autonomous dengan planning reasoning dan learning
+Deskripsi proyek: Build autonomous AI agent dengan reasoning dan planning capabilities. Multi-step problem solving, tool usage, learning dari experience. Reinforcement learning optional. Mengajarkan AI agents.
+Teknologi: LangChain, Reinforcement Learning, Planning Algorithms, Tool Integration, Memory Systems
+95. High-Frequency Trading System
+Deskripsi singkat: HFT system ultra-low latency dengan complex strategies
+Deskripsi proyek: High-frequency trading system dengan minimal latency. Complex trading strategies, order book management, risk controls. Market data processing. Backtesting infrastructure. Mengajarkan financial systems.
+Teknologi: Low-latency Python, Asyncio, Market Data Feeds, Order Management, Backtesting
+96. Compiler Optimizer
+Deskripsi singkat: Compiler dengan optimization passes code generation assembly
+Deskripsi proyek: Full compiler dengan optimization. Lexer, parser, semantic analysis, intermediate representation, optimization passes, code generation. Target architecture assembly. Mengajarkan compiler construction.
+Teknologi: LLVM (optional), AST, IR, Optimization Algorithms, Code Generation, Assembly
+97. 3D Rendering Engine
+Deskripsi singkat: 3D engine rendering dengan shaders lighting physics
+Deskripsi proyek: Build 3D rendering engine dari scratch. Rasterization, shaders, lighting models, textures. Camera system, transformations. Basic physics integration. Mengajarkan computer graphics.
+Teknologi: OpenGL/PyOpenGL, Linear Algebra, Shaders (GLSL), 3D Math, Graphics Pipeline
+98. Distributed ML Training
+Deskripsi singkat: Framework training ML distributed across multiple machines
+Deskripsi proyek: System untuk distributed machine learning training. Data parallelism, model parallelism. Parameter servers atau ring-allreduce. Fault tolerance. Mengajarkan distributed ML.
+Teknologi: PyTorch Distributed, TensorFlow Distributed, MPI, Gradient Aggregation, Networking
+99. Virtual Machine
+Deskripsi singkat: VM dengan bytecode interpreter JIT compilation garbage collection
+Deskripsi proyek: Build virtual machine untuk execute custom bytecode. Bytecode interpreter, JIT compilation untuk performance, garbage collection. Optimization. Mengajarkan VM internals.
+Teknologi: Bytecode Design, JIT Compilation, Garbage Collection, Memory Management, Optimization
+100. AGI Research Platform
+Deskripsi singkat: Platform research AGI dengan multi-modal learning reasoning
+Deskripsi proyek: Research platform untuk artificial general intelligence experiments. Multi-modal learning (vision, language, actions), reasoning systems, meta-learning. Benchmark suite. Extensible architecture. Mengajarkan cutting-edge AI.
+Teknologi: PyTorch/TensorFlow, Multi-modal Models, Reasoning Frameworks, Reinforcement Learning, Distributed Training
