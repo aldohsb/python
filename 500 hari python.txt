@@ -7,8 +7,10 @@ jangan gunakan syntax code yang sudah deprecated di 2026, versi library yang pal
 
 mulai dari inisialisasi proyek
 sertakan code bash touch mkdir untuk membuat struktur file lengkap semua file termasuk di root.
+code jangan terlalu banyak komentar, yg esensial saja, untuk materi penjelasan dibuat terpisah artifact tersendiri, artifact penjelasan proyek
 
-code dalam artifact lengkap dengan penjelasan detail dan lengkap setiap code dalam bentuk komentar, penjelasan level pemula minimal 50 kata setiap barisnya, jangan di ringkas, kecuali code yang pengulangan sudah dibahas sebelumnya
+
+artifact penjelasan proyek berisi penjelasan code lengkap proyek di atas, penjelasan lengkap perbaris, mengapa sebuah code ditulis, apa logikanya, untuk apa dan mengapa, penjelasan level pemula, bahas semua baris code, jangan di ringkas, kecuali code yang pengulangan sudah dibahas sebelumnya
 
 kalau terlalu panjang bagi proyek menjadi beberapa part tapi setiap part bisa langsung di lihat hasilnya, agar segera bisa di fix  kalau ada error, kemudian lanjut dengan  part selanjutnya di chat berikutnya.
 
